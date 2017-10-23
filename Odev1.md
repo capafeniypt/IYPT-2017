@@ -1,21 +1,19 @@
+9-A | Tarık Buğra İhtiyar | 507 
+9-A | Mehmet Emre Sevinç | 505 
+9-A | Yavuz Selim Mete | 508 
 
+Buz 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
+Bu deneyimizde tel sayesinde oluşan basıncın, teli buzun içinden geçirerek hal değişimine etkisini inceleyeceğiz. Amacımız; kısacası, bir teli buzu ikiye bölmeden, zarar vermeden sağ salim içinden geçirmek. Sihir gibi değil mi? 
+Bu deney için bize ince bir tel, orta boylarda bir buz kütlesi, iki adet ağırlık (eşit kütlede), kova ve tutacak veya tutacak görevini görecek bir cisim gerekecek. 
+Öncelikle teli ağırlıklara bağlıyoruz. Ağırlıklar eşit kütlede olacağı için buz kütlesinde dengede durabilecek. Tutacaklara tutturulacak buz kütlesinin ortasına eşit ağırlıklarla tutturulmuş ince teli koyuyoruz ve böylece deney başlamış oluyor. 
+Kütlenin ağırlığından dolayı buzun üzerinde bir basınç oluşmuş olacak. Bu basınç, buzun o bölgedeki erime hızını arttıracak ve böylece tel, buzun içerisine doğru ilerleyecek. Deneyi yaparken buzun 0 derecenin altında olduğunu biliyoruz. Bu sayede buzun eriyen kısmı yine donmuş olacak. Böylelikle tel buzun içinden geçtikten sonra, telin buzu iki parçaya ayırması önlenmiş olacak. 
+Buz eridikçe hacim olarak azalma gösterir. Bu nedenle buzun bir kısmına daha fazla basınç uygularsak o kısım diğer bölgelere oranla daha hızlı eriyecektir. Buz suya oranla daha düşük bir yoğunluğa sahiptir (neredeyse diğer her katı, sıvı formundan daha az alan kaplar). Bu deneyde buz, bir paça tele bağlı bir ağırlığın basıncına tabi tutulur, bu basınç altında buz erir ve tel geçer. Bununla birlikte tel bir kez geçtiğinde, basınç kaldırılır ve su tekrar donar. Böylelikle tel buz bloğundan ayrılmadan geçer. 
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+Kaynakça 
 
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+1_ http://www.yardimcikaynaklar.com/basincin-hal-degisimine-etkisi/ 
 
-## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
+2_ https://fizikdersi.gen.tr/basincin-hal-degisimine-etkisi-faz-diyagrami/  
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+3_ http://www.derszamani.net/basincin-hal-degisimine-etkisi-nedir.html
