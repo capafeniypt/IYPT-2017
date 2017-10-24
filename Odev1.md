@@ -1,5 +1,7 @@
 9-A | Tarık Buğra İhtiyar | 507 
+-------------------------------
 9-A | Mehmet Emre Sevinç | 505 
+-------------------------------
 9-A | Yavuz Selim Mete | 508 
 
 Buz 
